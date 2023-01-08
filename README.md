@@ -33,9 +33,8 @@ The osTicket has two panels
 
 2. Agent panel
 
-You can switch back and forth between these two panels
+You can switch back and forth between two panels
 
-We will start configuration process with admin panel
 
 
 
@@ -281,6 +280,29 @@ Set the SLA as follows
 Finally the last step is to configure Help Topics
 
 Go to Admin Panel >Manage >Help Topics
+
+Add the folloing Help Topics:
+
+1. Business Critical Outage 
+2. Personal Computer Issues
+3. Equipment Request
+4. Password Reset
+  
+  
+  </p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/enj0ILA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  
+  
+
+  
+  
+  
+
 
 
 
