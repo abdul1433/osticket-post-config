@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-The tutorial explains you the post installation setup and configuration of osTicket.<br />
+The tutorial explains you the post installation setup and configuration of osTicket system.<br />
 
 
 
@@ -299,7 +299,7 @@ Add the folloing Help Topics:
   
   
 
-  
+The post-configuration of the osTicet is successfully completed
   
   
 
