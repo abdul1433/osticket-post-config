@@ -11,9 +11,9 @@ The tutorial explains you the post installation setup and configuration of osTic
 
 <h2> Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Virtual Machone
 - Remote Desktop
-- Internet Information Services (IIS)
+
 
 <h2>Operating Systems Used </h2>
 
